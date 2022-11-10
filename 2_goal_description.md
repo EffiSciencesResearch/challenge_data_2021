@@ -1,6 +1,6 @@
-## Objectif pour notre dataset
+## Objectif
 
-Human_age est un benchlark de classification d'images avec un changement de distribution dans les données non étiquetées : nous classons les personnes âgées (old) et les jeunes (young). Du texte est également superposé sur les images : soit écrit "old", soit "young".
+*human_age* est un benchmark de classification d'images avec un changement de distribution dans les données non étiquetées : nous classons les personnes âgées (old) et les jeunes (young). Du texte est également superposé sur les images : soit écrit "old", soit "young".
 Dans le jeu de données d'entraînement, qui est étiqueté, le texte correspond toujours au visage.
 Mais dans le jeu de données non étiqueté, le texte correspond à l'image dans 50% des cas, ce qui crée une ambiguïté.
 
@@ -14,7 +14,7 @@ Les types 1 et 2 apparaissent dans les deux ensembles de données, les types 3 e
 
 Pour résoudre l'ambiguïté, les participant-es peuvent soumettre au leaderboard plusieurs fois des solutions, en testant différentes hypothèses (une petite poignée de soumission devrait suffire).
 
-Nous utilisons la précision sur l'ensemble non étiqueté de human_age comme notre métrique.
+Nous utilisons la précision sur l'ensemble non étiqueté de *human_age* comme notre métrique.
 
 ## Règles du défi
 

@@ -1,8 +1,8 @@
 The DivDis paper presents a simple baseline to solve these classes of problems. In short, we use multi-headed neural networks, and we use a metric that encourages the heads to use independent information. Once the training is finished, the best head can be selected by testing all the different heads on the validation data.
 
-DivDis obtains 70% of accuracy on the unlabeled set of human_age.
+DivDis obtains 70% of accuracy on the unlabeled set of *human_age*.
 
-GitHub: https://github.com/yoonholee/DivDis 
+GitHub: https://github.com/yoonholee/DivDis
 
 
 1. Armstrong, S; Cooper, J; Daniels-Koch, O; and Gorman, R, “The HappyFaces Benchmark”,” Aligned AI Limited published public benchmark, 2022.
