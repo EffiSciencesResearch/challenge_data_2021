@@ -17,6 +17,8 @@ We distribute a complementary dataset, *human_hair*, with all the labels public 
 DivDis obtains 97% of accuracy on the unlabeled set of *human_hair*.
 *human_hair* weighs 14 Mo.
 
+[![human_hair](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_hair.png?raw=true)](https://www.effisciences.org/)
+
 ## MNIST_embeding datasets
 
 We also distribute *mnist_embed*, which is the simplest dataset. Participants are encouraged to try to solve this problem before embarking on the other datasets.
