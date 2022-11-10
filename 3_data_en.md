@@ -7,8 +7,16 @@ We have 4 types of images: Age Young Text Old (AYTO), Age Young Text Young (AYTY
 *human_age* weighs 630 Mo.
 
 
-# The toy datasets : human_hair and the MNIST_embeding_datasets
+# The toy datasets: human_hair and the MNIST_embeding datasets
 
-We offer to distribute a complementary dataset, *human_hair*, with all the labels public to allow participants to iterate more easily before tackling human_age which is more complicated.
+In the supplementary material you will find 2 datasets which are of simpler level than the *human_age* dataset.
+
+## human_hair
+
+We distribute a complementary dataset, *human_hair*, with all the labels public to allow participants to iterate more easily before tackling human_age which is more complicated.
 DivDis obtains 97% of accuracy on the unlabeled set of *human_hair*.
 *human_hair* weighs 14 Mo.
+
+## MNIST_embeding datasets
+
+We also distribute *mnist_embed*, which is the simplest dataset. Participants are encouraged to try to solve this problem before embarking on the other datasets.
