@@ -3,7 +3,7 @@
 Certains jeux de données ne sont pas bien spécifiés : prenons l'exemple d'un jeu de données qui contiendrait des images de chameaux dans le désert, ainsi que des images de vaches dans des prairies. Le classificateur doit classer les images de chameaux et les images de vaches. Mais tel qu'il est formulé, le classificateur pourrait apprendre à classer les images non pas en fonction de l'animal, mais en fonction du paysage : le jeu de données est sous-spécifié car nous avons deux caractéristiques qui sont parfaitement corrélées (l'animal et le paysage). En d'autres termes, le classificateur peut décider de classer soit vache/chameau, soit prairie/désert. Et il y a ambiguïté lorsque nous essayons de classifier l'image d'un chameau dans une prairie. L'objectif de ce sujet est de résoudre ce type d'ambiguïtés. 
 
 
-## Etude de cas: Pourquoi un classificateur entraîné à identifier des poumons affaissés a-t-il fini par détecter des drains thoraciques (les cables) ?
+## Etude de cas: Pourquoi un réseau entraîné à identifier des poumons affaissés a-t-il fini par détecter des drains thoraciques (les cables) ?
 
 [![Chest_drains](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/chest_drain.png?raw=true)](https://www.sciencedirect.com/science/article/pii/S2589750020302193)
 
