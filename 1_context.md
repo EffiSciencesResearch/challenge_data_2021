@@ -6,6 +6,7 @@ Certains jeux de données ne sont pas bien spécifiés : prenons l'exemple d'un 
 ## Etude de cas: Pourquoi un classificateur entraîné à identifier des poumons affaissés a-t-il fini par détecter des drains thoraciques (les cables) ?
 
 [![Foo](https://github.com/alignedai/HappyFaces/raw/main/images/image3.jpg)](https://www.sciencedirect.com/science/article/pii/S2589750020302193)
+
 *Ci-dessus : Radiographie d'un patient avec deux drains thoraciques (les deux longs tubes) - un traitement pour les poumons affaissés. Les drains thoraciques sont visuellement beaucoup plus simples que les poumons affaissés et les deux caractéristiques sont corrélées, de sorte qu'un classificateur pourrait obtenir de bons résultats en apprenant à identifier la caractéristique la plus simple, mais ne serait pas performant sur un patient avant l'opération.*
 
 
