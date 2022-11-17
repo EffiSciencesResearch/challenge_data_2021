@@ -6,8 +6,7 @@ We have 4 types of images: Age Young Text Old (AYTO), Age Young Text Young (AYTY
 - a labeled set: 20000 images (either Age Old with written "old" or young with written "young")
 - an unlabeled set: about 70000 images (mixing rate of 50%, the 4 types of images being present in equal proportion). 
 
-*human_age* weighs 630 Mb.
-
+*human_age* weighs 630 Mb and is a variant of the CelebA dataset [5].
 
 ## The toy datasets
 

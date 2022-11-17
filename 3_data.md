@@ -7,8 +7,7 @@ Nous avons 4 types d'images : Age Young Text Old (AYTO), Age Young Text Young (A
 - un ensemble étiqueté : 20000 images (soit Age Old avec écrit "old" ou young avec écrit "young")
 - un ensemble non étiqueté : environ 70000 images (taux de mélange de 50%, les 4 types d'images étant présents en proportion égale). 
 
-*human_age* pèse 630 Mo.
-
+*human_age* pèse 630 Mo et est une variante du dataset CelebA [5].
 
 ## Les toy datasets
 
