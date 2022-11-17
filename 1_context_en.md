@@ -1,8 +1,3 @@
-## Description of the problem in one minute
-
-Some datasets are not well specified: consider a dataset that contains images of camels in the desert, as well as images of cows in grasslands. The classifier must classify the camel images and the cow images. But the classifier could learn to classify the images not based on the animal, but based on the landscape: the dataset is *under-specified* because we have two features that are perfectly correlated (the animal and the landscape). In other words, the classifier can decide to classify either cow/camel or grassland/desert. And there is ambiguity when we try to classify the image of a camel in a grassland. The goal of this topic is to resolve these types of ambiguities. 
-
-
 ## Case study
 *Why did a network trained to identify collapsed lungs end up detecting chest drains?*
 
