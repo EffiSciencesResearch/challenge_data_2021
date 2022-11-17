@@ -1,5 +1,8 @@
 ## Le jeu de données principal : human_age
 
+[![human_age](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_age.png?raw=true)](https://www.effisciences.org/)
+
+
 Nous avons 4 types d'images : Age Young Text Old (AYTO), Age Young Text Young (AYTY), etc. Nous fournissons :
 - un ensemble étiqueté : 20000 images (soit Age Old avec écrit "old" ou young avec écrit "young")
 - un ensemble non étiqueté : environ 70000 images (taux de mélange de 50%, les 4 types d'images étant présents en proportion égale). 

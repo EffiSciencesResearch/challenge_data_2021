@@ -1,8 +1,5 @@
 ## Objectif
 
-
-[![human_age](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_age.png?raw=true)](https://www.effisciences.org/)
-
 *human_age* is an image classification benchmark with a distribution change in the unlabeled data: we classify old and young people. Text is also superimposed on the images: either written "old" or "young".
 In the training dataset, which is labeled, the text always matches the face.
 But in the unlabeled (test) dataset, the text matches the image in 50% of the cases, which creates an ambiguity.

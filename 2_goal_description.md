@@ -1,8 +1,5 @@
 ## Objectif
 
-
-[![human_age](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_age.png?raw=true)](https://www.effisciences.org/)
-
 *human_age* est un benchmark de classification d'images avec un changement de distribution dans les données non étiquetées : nous classons les personnes âgées (old) et les jeunes (young). Du texte est également superposé sur les images : soit écrit "old" ou "young".
 Dans le jeu de données d'entraînement, qui est étiqueté, le texte correspond toujours au visage.
 Mais dans le jeu de données non étiqueté (de test), le texte correspond à l'image dans 50% des cas, ce qui crée une ambiguïté.

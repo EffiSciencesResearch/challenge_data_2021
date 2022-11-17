@@ -1,5 +1,7 @@
 ## The main dataset: human_age
 
+[![human_age](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_age.png?raw=true)](https://www.effisciences.org/)
+
 We have 4 types of images: Age Young Text Old (AYTO), Age Young Text Young (AYTY), etc. We provide:
 - a labeled set: 20000 images (either Age Old with written "old" or young with written "young")
 - an unlabeled set: about 70000 images (mixing rate of 50%, the 4 types of images being present in equal proportion). 
