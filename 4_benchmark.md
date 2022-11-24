@@ -2,7 +2,7 @@
 
 Le papier DivDis présente un algorithme simple pour résoudre ces problèmes d'ambiguïté. DivDis utilise des réseaux de neurones à têtes multiples, et une loss qui encourage les têtes à utiliser des informations indépendantes. Une fois l'apprentissage terminé, la meilleure tête peut être sélectionnée en testant toutes les têtes différentes sur les données de validation.
 
-DivDis obtient une précision de 70% sur l'ensemble non étiqueté de *human_age*.
+DivDis obtient une précision de 70% sur l'ensemble non étiqueté de *human_age* et obtient 97% de précision sur l'ensemble non étiqueté de *human_hair*.
 
 GitHub : https://github.com/yoonholee/DivDis
 

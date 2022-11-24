@@ -13,7 +13,6 @@ We have 4 types of images: Age Young Text Old (AYTO), Age Young Text Young (AYTY
 In the supplementary material, you will find the *human_hair* datasets  In this datasets, all labels are public to allow participants to iterate more easily before tackling *human_age* which is more complicated.
 
 In *human_hair*, instead of classifying age, we classify hair color which is a much simpler feature to classify than age.
-DivDis gets 97% accuracy on the unlabeled set of *human_hair*.
 *human_hair* weighs 14 Mb.
 
 

@@ -14,7 +14,6 @@ Nous avons 4 types d'images : Age Young Text Old (AYTO), Age Young Text Young (A
 Dans le matériel supplémentaire, vous trouverez le jeu de données *human_hair* Dans ce jeu de données, tous les labels sont publics pour permettre aux participants d'itérer plus facilement avant de s'attaquer à *human_age* qui est plus compliqué.
 
 Dans *human_hair*, au lieu de classifier l'âge, nous classifions la couleur des cheveux qui est une caractéristique beaucoup plus simple à classifier que l'âge.
-DivDis obtient 97% de précision sur l'ensemble non étiqueté de *human_hair*.
 *human_hair* pèse 14 Mo.
 
 

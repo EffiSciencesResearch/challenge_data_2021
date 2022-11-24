@@ -2,7 +2,7 @@
 
 The DivDis paper presents a simple algorithm to solve these ambiguity problems. DivDis uses multi-head neural networks, and a loss that encourages the heads to use independent information. Once training is complete, the best head can be selected by testing all different heads on the validation data.
 
-DivDis achieves 70% accuracy on the unlabeled set of *human_age*.
+DivDis achieves 70% accuracy on the unlabeled set of *human_age* and 97% accuracy on the unlabeled set of *human_hair*.
 
 GitHub : https://github.com/yoonholee/DivDis
 
