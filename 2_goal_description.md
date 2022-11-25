@@ -14,7 +14,7 @@ Nous avons donc 4 types d'images :
 Les types 1 et 2 apparaissent dans les deux ensembles de données, les types 3 et 4 apparaissent uniquement dans l'ensemble de données non étiquetées.
 
 
-Pour résoudre l'ambiguïté, les participant-es peuvent soumettre au leaderboard plusieurs fois des solutions, en testant différentes hypothèses (Théoriquement deux soumissions devraient suffire).
+Pour résoudre l'ambiguïté, les participant-es peuvent soumettre au leaderboard plusieurs fois des solutions, en testant différentes hypothèses (les challenger peuvent envisager des solutions qui nécessitent deux ou plusieurs soumissions au leaderboard).
 
 Nous utilisons la précision sur l'ensemble non étiqueté de *human_age* comme notre métrique.
 

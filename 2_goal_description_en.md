@@ -14,7 +14,7 @@ So we have 4 types of images:
 Types 1 and 2 appear in both datasets, types 3 and 4 appear only in the unlabeled dataset.
 
 
-To resolve this ambiguity, participants can submit solutions to the leaderboard multiple times, testing different hypotheses (theoretically two submissions should suffice).
+To resolve this ambiguity, participants can submit solutions to the leaderboard multiple times, testing different hypotheses (challengers may consider solutions that require two or more submissions to the leaderboard).
 
 We use the accuracy on the unlabeled set of *human_age* as our metric.
 
