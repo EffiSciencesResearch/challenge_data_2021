@@ -19,3 +19,8 @@ Dans *human_hair*, au lieu de classifier l'âge, nous classifions la couleur des
 
 [![human_hair](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_hair.png?raw=true)](https://www.effisciences.org/)
 
+## Starting Pack
+
+Afin de commencer à travailler sur les deux jeux de données, vous pouvez reprendre le Colab "Starting Pack" qui vous permettra de ne pas perdre de temps sur l'infrastructure, le chargement des données et le format csv attendu.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y5X0S9kNiEHijsAfNXmDwIiHZUcUdzjT?usp=sharing]

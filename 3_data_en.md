@@ -17,3 +17,9 @@ In *human_hair*, instead of classifying age, we classify hair color which is a m
 
 
 [![human_hair](https://github.com/EffiSciencesResearch/challenge_data_ens_2023/blob/main/assets/human_hair.png?raw=true)](https://www.effisciences.org/)
+
+## Starting Pack
+
+In order to start working on the two datasets, you can start with the Colab "Starting Pack" which will allow you not to spend time on the infrastructure, data loading and the expected csv format.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y5X0S9kNiEHijsAfNXmDwIiHZUcUdzjT?usp=sharing]
