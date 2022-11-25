@@ -20,6 +20,12 @@ We use the accuracy on the unlabeled set of *human_age* as our metric.
 
 ## Challenge rules
 
+Effisciences will distribute a prize of 600 euros to the best team.
+
+At the end of the challenge, the different teams will have to send their code to crsegerie@gmail.com with the heading: "Challenge Data - Submission". We will give you general feedbacks on the quality of your code.
+
 - Participants are not allowed to label images by hand.
 - Participants are not allowed to use other datasets. They are only allowed to use the datasets provided.
 - Participants are not allowed to use arbitrary pre-trained models. Only ImageNet pre-trained models are allowed.
+
+In case of suspected cheating, an oral interview will be requested.
