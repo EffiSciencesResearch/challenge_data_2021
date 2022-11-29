@@ -20,12 +20,8 @@ Nous utilisons la précision sur l'ensemble non étiqueté de *human_age* comme 
 
 ## Règles du défi
 
-Effisciences distribuera un prix de 600 euros à la meilleure équipe.
-
-A la fin du défi, les différentes équipes devront envoyer leur code à crsegerie@gmail.com avec l'intitulé : "Données du défi - Soumission". Nous vous ferons un retour général sur la qualité de votre code.
+A la fin du défi, les différentes équipes devront envoyer leur code à crsegerie@gmail.com avec l'intitulé : "Challenge Data - Submission".
 
 - Les participants ne sont pas autorisés à étiqueter les images à la main.
 - Les participants ne sont pas autorisés à utiliser d'autres jeux de données. Ils ne peuvent utiliser que les jeux de données fournis.
 - Les participants ne sont pas autorisés à utiliser des modèles pré-entraînés. Seuls les modèles pré-entraînés d'ImageNet sont autorisés.
-
-En cas de suspicion de tricherie, un entretien oral sera demandé.
